@@ -1,0 +1,27 @@
+{
+    "clientes": [{
+            "nombre": "Jose Benito",
+            "empresa": "J.B",
+            "email": "correo@jb.com",
+            "telefono": "+49 611 6768",
+            "notas": "El Cliente solicita un servidor",
+            "id": 1
+        },
+        {
+            "nombre": "J.Benito",
+            "empresa": "Apple",
+            "email": "correo@apple.com",
+            "telefono": "+ 34 876 68687",
+            "notas": "Pero un buen día, una pequeña línea de texto simulado, llamada Lorem Ipsum, decidió aventurarse y salir al vasto mundo de la gramática.",
+            "id": 2
+        },
+        {
+            "nombre": "Lopez",
+            "empresa": "IBM",
+            "email": "correo@ibm.com",
+            "telefono": "+ 34 876 68687",
+            "notas": "Un riachuelo llamado Pons fluye por su pueblo y los abastece con las normas necesarias. Hablamos de un país paraisomático en el que a uno le caen pedazos de frases asadas en la boca.",
+            "id": 3
+        }
+    ]
+}
