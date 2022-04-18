@@ -1,9 +1,0 @@
-node_modules
-build
-dist
-npm-debug.log
-.env
-.DS_Store
-.env.development.local
-.env.production.local
-db.json
